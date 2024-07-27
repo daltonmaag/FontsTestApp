@@ -21,6 +21,13 @@ DerivedData
 *.ipa
 *.xcuserstate
 ios/.xcode.env.local
+src/app-design-toolkit
+src/assets
+*backup*
+src/components
+src/global-design-toolkit
+src/theme
+src/utils
 
 # Android/IntelliJ
 #

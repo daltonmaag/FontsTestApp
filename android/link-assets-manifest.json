@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Inter-Bold.ttf",
+      "sha1": "47ff07c75746682133b81e7ac0537ce50a4c9916"
+    },
+    {
+      "path": "assets/fonts/Inter-BoldItalic.ttf",
+      "sha1": "f122195ada0840667e276c78963aa39da60c568f"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "c9b3d2f2449ab2c67ff075f806973fa3d7e104b3"
+    },
+    {
+      "path": "assets/fonts/Inter-Medium.ttf",
+      "sha1": "e76f580811e031813e7150131a0724811cdd737a"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "cfa780d0b50b2bb7eacb82984f1b18a95aaa40c5"
+    },
+    {
+      "path": "assets/fonts/NotoSansArabic-Bold.ttf",
+      "sha1": "a9398ac0f1d61475ea7bed19789f044f0c9d6fc0"
+    },
+    {
+      "path": "assets/fonts/NotoSansArabic-Medium.ttf",
+      "sha1": "9321c4ea6869ae1a598759a34ed27770c88c01a0"
+    },
+    {
+      "path": "assets/fonts/NotoSansArabic-Regular.ttf",
+      "sha1": "456e74b0805d1931a7786d3d04673a3b02dd4dd3"
+    },
+    {
+      "path": "assets/fonts/duCoBrandVF_A_Wght.ttf",
+      "sha1": "1bef6b2573e6b3e19ed4d0c75e3d68fbc15cd3ce"
+    },
+    {
+      "path": "assets/fonts/duCoBrand_A_Bd_arabic.ttf",
+      "sha1": "37adfa2dcccb7bbc08417cafe3993fff554bde5a"
+    },
+    {
+      "path": "assets/fonts/duCoBrand_A_Bd_english.ttf",
+      "sha1": "3b19c5a76aefc6dfee0a365b8287614a5019ab82"
+    },
+    {
+      "path": "assets/fonts/duCoBrand_A_Lt.ttf",
+      "sha1": "7163c1e78e1b469286544f5127d145a0a7e097d0"
+    },
+    {
+      "path": "assets/fonts/duCoBrand_A_Md.ttf",
+      "sha1": "cbb0e51bb48b1ae58cd52aba32d0383ea88008af"
+    },
+    {
+      "path": "assets/fonts/duCoBrand_A_Rg.ttf",
+      "sha1": "7b8f22c7f17f708f23957e2c3828116e85858922"
+    },
+    {
+      "path": "assets/fonts/duCoBrand_A_SBd.ttf",
+      "sha1": "2f14628117b4d40850a7c3069dff10a04e419326"
+    },
+    {
+      "path": "assets/fonts/duCoHeadline16-Bold.ttf",
+      "sha1": "d7e55b75af315c260756317aa25ba9dc0b5f28ea"
+    },
+    {
+      "path": "assets/fonts/duCoHeadline16-Light.ttf",
+      "sha1": "a4e25a076f74c31b83e993891b6beaf600921d46"
+    },
+    {
+      "path": "assets/fonts/duCoHeadline16-Regular.ttf",
+      "sha1": "1a072ab372541a3f1dfcf02abbe52d8d9d0720e7"
+    }
+  ]
+}
